@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                        Hi, my name is Gabriel. I'm passionate about technology, software development, and AI, 
+                        Hi, my name is Gabriel. I'm passionate about technology, software development and AI, 
                         with a strong interest in creating practical and innovative solutions. 
                         I enjoy turning ideas into functional applications and have hands-on experience 
                         in programming, web development, automation, and AI projects.
